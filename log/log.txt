@@ -1,1 +1,2 @@
 Day 1: maximum depth binary tree & Self Dividing numbers from LeetCode
+Day 2: Number complement & Reverse words in a string 3
