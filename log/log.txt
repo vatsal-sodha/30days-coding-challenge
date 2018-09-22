@@ -7,4 +7,5 @@ Day 5: Shortest distance to a character and Maximum depth of N-ary tree
 Day 6: SPOJ half-of-the-half, life-the-universe-and-everything, and character-pattern-1 
 Day 7: SPOJ character-patter-2 and character-pattern-3
 Day 8: SPOJ hidden-couple and not-so-fast-generator
-Day 9: Codechef codechef-magician-chef.cpp anf spam-classification-using-neural-net
+Day 9: Codechef codechef-magician-chef.cpp and spam-classification-using-neural-net
+Day 10: Codechef chef-and-polygon-cakes.cpp and strike-or-spare.cpp

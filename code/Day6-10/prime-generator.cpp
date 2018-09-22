@@ -27,7 +27,7 @@ int main()
 				arr[temp-m]=1;
 			}
 			i=p+1;
-			while(arr[p]!=0 || i<=n)
+			while(arr[i-m]!=0 || i<=n)
 			{
 				if(arr[i-m]==0){
 					p=i;
