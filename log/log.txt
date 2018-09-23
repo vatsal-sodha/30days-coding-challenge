@@ -9,3 +9,5 @@ Day 7: SPOJ character-patter-2 and character-pattern-3
 Day 8: SPOJ hidden-couple and not-so-fast-generator
 Day 9: Codechef codechef-magician-chef.cpp and spam-classification-using-neural-net
 Day 10: Codechef chef-and-polygon-cakes.cpp and strike-or-spare.cpp
+
+Day 11: Codechef chef-and-secret-ingredient.cpp and d-triangles-count.cpp
